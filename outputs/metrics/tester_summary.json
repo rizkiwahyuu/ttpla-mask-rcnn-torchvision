@@ -1,0 +1,17 @@
+{
+  "checkpoint_path": "/content/new/best_model.pth",
+  "checkpoint_epoch": 15,
+  "device": "cpu",
+  "num_test_images_available": 400,
+  "num_test_images_processed": 400,
+  "score_threshold": 0.3,
+  "mask_threshold": 0.5,
+  "num_classes_including_background": 5,
+  "total_predictions": 6064,
+  "avg_predictions_per_image": 15.16,
+  "tester_output_dir": "/content/tester_outputs",
+  "prediction_csv": "/content/tester_outputs/predictions.csv",
+  "prediction_json": "/content/tester_outputs/predictions.json",
+  "class_stats_csv": "/content/tester_outputs/class_prediction_stats.csv",
+  "num_visualization_images": 10
+}
