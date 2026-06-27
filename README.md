@@ -1,4 +1,4 @@
-# TTPLA Mask R-CNN Torchvision
+# Detection and Segmentation of Transmission Towers and Power Lines Mask R-CNN Torchvision
 
 Implementasi **Mask R-CNN menggunakan Torchvision** untuk tugas **object detection** dan **instance segmentation** pada dataset **TTPLA**. Project ini berfokus pada pendeteksian dan segmentasi objek jaringan transmisi seperti **cable**, **tower_lattice**, **tower_tucohy**, dan **tower_wooden** dari data citra.
 
